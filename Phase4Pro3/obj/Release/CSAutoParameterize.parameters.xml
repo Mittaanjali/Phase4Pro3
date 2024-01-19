@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="anjali11ConnectionString-Web.config Connection String" description="anjali11ConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=rainbowschooldb.database.windows.net;Initial Catalog=anjali11;Persist Security Info=True;User ID=anjaliadmin;Password=Anjalimitta@426" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\anjal\\OneDrive\\Desktop\\Mphasis\(\.net\)\\Phase4\\Projects\\Phase4Pro3\\Phase4Pro3\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='anjali11ConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
